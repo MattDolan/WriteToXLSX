@@ -1,0 +1,8 @@
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\bin\Release\WriteToXLSX.exe
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\bin\Release\WriteToXLSX.pdb
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\bin\Release\EPPlus.dll
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\obj\x86\Release\WriteToXLSX.Form1.resources
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\obj\x86\Release\WriteToXLSX.Properties.Resources.resources
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\obj\x86\Release\WriteToXLSX.csproj.GenerateResource.Cache
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\obj\x86\Release\WriteToXLSX.exe
+C:\ProjectsCorpv\ATT SE Posting\WriteToXLSX\WriteToXLSX\WriteToXLSX\obj\x86\Release\WriteToXLSX.pdb

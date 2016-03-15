@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>"U:\job folders\TN\MDTN\BELLEVUE\08C11200N\\Poster Quality Checklist.xlsx|C:\Users\MDOLAN~1.COR\AppData\Local\Temp\08C11200N.dat"</StartArguments>
+  </PropertyGroup>
+</Project>
